@@ -1,5 +1,4 @@
 <template>
-<div class="flex flex-col w-64">
     <div class="text-gray-200 flex flex-col text-left ml-24 mt-40 text-sm">KINKEKAARDID
         <a href="#" class="text-blue-500 hover:text-white">Nüüd Olemas Steamis</a>
     </div>
@@ -37,5 +36,5 @@
     <div class="text-gray-200 flex flex-col text-left ml-24 my-5 text-sm">VIIMATI VAADATUD
         <a href="#" class="text-blue-500 hover:text-white">Cyberpunk 2077</a>
     </div>
-</div>
+
 </template>
